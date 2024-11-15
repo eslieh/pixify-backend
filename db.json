@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "username": "vick",
+      "fullnames": "Eslieh Victor",
+      "password": "1234",
+      "profile_url": "https://i.pinimg.com/280x280_RS/c8/37/58/c837582c45eed0dcf2b12dee2952e8de.jpg",
+      "followers": [],
+      "following": []
+    }
+  ],
+  "posts": [
+    {
+      "id": "1731641844274",
+      "username": "vick",
+      "fullnames": "Eslieh Victor",
+      "profileImage": "https://i.pinimg.com/280x280_RS/c8/37/58/c837582c45eed0dcf2b12dee2952e8de.jpg",
+      "caption": "Tesla",
+      "imageUrl": "https://i.pinimg.com/736x/e7/2e/78/e72e78b9f2a7e305b9b12cab95b46952.jpg",
+      "likeCount": 1,
+      "comments": []
+    }
+  ]
+}
